@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mu-An Chiou - @muanchiou || @muan</title>
+    <description></description>
+    <link>http://muan.co</link>
+    <atom:link href="http://muan.co/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Apps I Used in 2013</title>
+        <description>&lt;p&gt;Following &lt;a href=&quot;http://parislemon.com/post/71774755194/the-apps-i-actually-used-in-2013&quot;&gt;MG&amp;rsquo;s post on the same subject&lt;/a&gt;. Thought it was interesting.&lt;/p&gt;
+
+&lt;p&gt;Here are mine. Tried to rank in terms of usage/importance per category.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Gmail&lt;br /&gt;
+Asana&lt;br /&gt;
+Tempo/Google Calendar&lt;br /&gt;
+Google Drive&lt;br /&gt;
+Dropbox&lt;br /&gt;
+Hipchat&lt;br /&gt;
+GoToMeeting&lt;br /&gt;
+Jira&lt;br /&gt;
+Zendesk&lt;br /&gt;
+Github&lt;br /&gt;
+Google Analytics&lt;br /&gt;
+Balsamiq&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Personal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Sleep Time/Clock&lt;br /&gt;
+Google Maps&lt;br /&gt;
+Pocket&lt;br /&gt;
+Evernote&lt;br /&gt;
+Speedtest&lt;br /&gt;
+Draft&lt;br /&gt;
+Lift&lt;br /&gt;
+Penzu&lt;br /&gt;
+Line&lt;br /&gt;
+Yelp&lt;br /&gt;
+IFTTT&lt;br /&gt;
+Flixter (Rottentomates)&lt;br /&gt;
+Yahoo Sports (Fantasy Basketball)&lt;br /&gt;
+Square Cash&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Social&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Twitter&lt;br /&gt;
+Linkedin&lt;br /&gt;
+Instagram&lt;br /&gt;
+Buffer&lt;br /&gt;
+Tumblr&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Media&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Pandora&lt;br /&gt;
+Shazam&lt;br /&gt;
+Netflix&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;May need to update &lt;a href=&quot;http://chrisyin.com/tools&quot;&gt;Tools&lt;/a&gt;. Happy New Year!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+        <link>http://muan.co/2013/12/31/apps-i-used-in-2013/</link>
+        <guid isPermaLink="true">http://muan.co/2013/12/31/apps-i-used-in-2013/</guid>
+      </item>
+    
+      <item>
+        <title>Nest Thermostat Review</title>
+        <description>&lt;p&gt;I bought my folks a Nest over break. The question I hear a lot is &amp;ndash; is it worth the ~$300?&lt;/p&gt;
+
+&lt;p&gt;TL;DR - Yes. It&amp;rsquo;s good for now, but not perfect. Review below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nest.jpg&quot; alt=&quot;nest&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://nest.com/thermostat/life-with-nest-thermostat/&quot;&gt;Nest Thermostat&lt;/a&gt; is a &amp;lsquo;smart&amp;rsquo; thermostat that learns from your habits to reduce wateful spending. Touting features like auto away (turning heat down automatically when you&amp;rsquo;re out), self learning (setting optimal temperatures itself) and more, it&amp;rsquo;s a pretty compelling buy. And not to mention that it looks awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Validation &amp;amp; Installation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you can use the Nest, you have to make sure it&amp;rsquo;s compatible with your house. To find out, you remove the cover of your current thermostat, go to the &lt;a href=&quot;https://widgets.nest.com/compatibility/&quot;&gt;Nest compatibility site&lt;/a&gt; and check a few wires.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nest2.jpg&quot; alt=&quot;old-thermostat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my case, I had a W, Rh, Y, G, and another tying Rh to Rc. I emailed them in case (&lt;a href=&quot;mailto:photos@nest.com&quot;&gt;photos@nest.com&lt;/a&gt;) and they were pretty quick (within 6 hours) to respond and confirm.&lt;/p&gt;
+
+&lt;p&gt;On the site, I was returned with this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nest3.png&quot; alt=&quot;diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Was unsure of what to do with the Rh to Rc wire, so I left it off. Discovered later that &lt;a href=&quot;http://support.nest.com/article/How-do-I-install-Nest-if-my-old-thermostat-had-a-short-wire-connecting-Rh-and-Rc&quot;&gt;it wasn&amp;rsquo;t necessary&lt;/a&gt; (aside &amp;ndash; found a fair amount of people with the same question, so would have been helpful to include in setup instructions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://bit.ly/KgH7Wn&quot; alt=&quot;install&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Installation was pretty straightforward &amp;ndash; turn off the electricity via circuit box, remove old thermostat, screw in Nest plate, plug in wires, and then put the Nest on top of it. 15-20 min.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Setup&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Once it&amp;rsquo;s on, configuration was easy &amp;ndash; it takes you through a few setup screens &amp;ndash; name your Nest, set the network, time zone, default temp, etc.&lt;/p&gt;
+
+&lt;p&gt;Once this was done, next was to link my phone. Created a Nest account on their &lt;a href=&quot;https://home.nest.com/&quot;&gt;website&lt;/a&gt;, and it auto linked my account to my Nest based on the network. Again, pretty smooth &amp;amp; easy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Using the Nest&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Although everything had been easy up to this point, learning more about using Nest was a bit lacking. Outside of learning by pushing buttons, Nest has a &lt;a href=&quot;https://community.nest.com/community/help-with-nest&quot;&gt;Community&lt;/a&gt; and &lt;a href=&quot;http://support.nest.com/thermostat/&quot;&gt;Support&lt;/a&gt; page on their site. While these pages provided some info, I was still hoping to get into more detail on all their features and how to optimally configure/use it. There&amp;rsquo;s almost nothing useful in the box, and what I &lt;a href=&quot;http://support.nest.com/article/An-introduction-to-learning&quot;&gt;found&lt;/a&gt; on the web wasn&amp;rsquo;t enough for me.&lt;/p&gt;
+
+&lt;p&gt;Many of the cool features &amp;ndash; &lt;a href=&quot;http://support.nest.com/article/An-introduction-to-learning&quot;&gt;Learning&lt;/a&gt;, &lt;a href=&quot;http://support.nest.com/article/How-does-Auto-Schedule-learn&quot;&gt;Scheduling&lt;/a&gt;, &lt;a href=&quot;http://support.nest.com/article/What-is-Early-On&quot;&gt;Early On&lt;/a&gt;, &lt;a href=&quot;http://support.nest.com/article/How-does-the-Nest-Leaf-work&quot;&gt;Leaf&lt;/a&gt;, &lt;a href=&quot;http://support.nest.com/article/How-to-read-my-Energy-History-on-the-Nest-Learning-Thermostat&quot;&gt;Energy Savings&lt;/a&gt; and more, are things that develop over time. To learn more, I had to look into a forum or community thread &amp;ndash; it would have been helpful to get information straight from Nest &amp;ndash; list of features, how/when to use X feature, when to check back in to make sure it&amp;rsquo;s being used properly, etc.&lt;/p&gt;
+
+&lt;p&gt;If this info is up front and center as opposed to hidden in support, users will better understand what Nest is doing and how to get the most out of it. While I understand the goal of Nest is to &amp;lsquo;set it and forget it&amp;rsquo;, it would have been helpful to spell out the features for users so they don&amp;rsquo;t have to go digging through the the forums to find the answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UI/UX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I realize this is a fairly large upgrade from the standard thermostat in terms of aesthetic/usability &amp;ndash; and although the UX is nice, I was a bit disappointed in the UI, both on the device and the apps (&lt;a href=&quot;https://home.nest.com/&quot;&gt;web&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://itunes.apple.com/us/app/id464988855?mt=8&quot;&gt;mobile&lt;/a&gt;). While you have to take the 2 &amp;frac12; stars and poor reviews with a grain of salt, the apps could definitely use some improvement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the one area that scared me a bit. After initially setting up the Nest, we left town for a day. Upon return, I was excited to turn on the Nest &amp;amp; pre-heat the house remotely &amp;ndash; but the app said the Nest was offline. After getting back and checking &amp;ndash; Nest having trouble connecting to the network because of low battery.&lt;/p&gt;
+
+&lt;p&gt;Totally unaware there was even a battery (thought it powered through the wall), I went online to figure out what was going on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/nest5.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Found this on the support page and it &lt;a href=&quot;http://support.nest.com/article/Intermittent-low-battery-or-connectivity-issues-with-thermostat-software-4-0&quot;&gt;lead to this article&lt;/a&gt;. With no steps to fix, had to search a bit more and found &lt;a href=&quot;http://support.nest.com/article/What-s-the-mini-USB-port-on-the-back-of-the-display-for&quot;&gt;this article&lt;/a&gt; &amp;ndash; had to recharge Nest through an outlet so we could use &amp;amp; reconnect in the interim (next up was &lt;a href=&quot;http://shaunmerrigan.info/site-news/nest-thermostat-battery-charge-problem-and-solution/&quot;&gt;this&lt;/a&gt; if it didn&amp;rsquo;t work). Let it charge for ~1hr and set it back on the wall. Haven&amp;rsquo;t had a problem since, but the lack of clear steps for a resolution left me a bit uneasy.&lt;/p&gt;
+
+&lt;p&gt;While perusing the support pages during this time, I found a few frustrated people with Nest&amp;rsquo;s seemingly lack of care for support issues. With only a support email alias and no direct number, I can see why. While email only support is fairly common for startups, not sure if this is a good approach for home consumer products.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, I&amp;rsquo;ve had a good experience with Nest and would generally recommend it.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s clear the Nest guys spent a lot of time building a beautiful product. However, the experience as a whole feels incomplete.&lt;/p&gt;
+
+&lt;p&gt;The aesthetics and functionality of the product are amazing and undoubtedly a step up from a traditional thermostat. But as for continuing to support and help users maximize usage of the product after installation, Nest could use some improvement.&lt;/p&gt;
+
+&lt;p&gt;By simply adding a detailed user manual so users know how they&amp;rsquo;re benefitting from Nest&amp;rsquo;s features and providing a better support site or line, they could dramatically improve the overall experience. Otherwise, Nest runs the risk of being perceived as an expensive remote control for your thermostat.&lt;/p&gt;
+
+&lt;p&gt;So if you&amp;rsquo;re into new toys and want to upgrade &amp;ndash; Nest is perfect for you. But I think for now, Nest will remain an expensive toy in consumers' eyes until it has spent more time in the market proving that it is worth the cost.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+        <link>http://muan.co/2013/12/23/nest-review/</link>
+        <guid isPermaLink="true">http://muan.co/2013/12/23/nest-review/</guid>
+      </item>
+    
+      <item>
+        <title>Freemium Doesn't Always Work in B2B</title>
+        <description>&lt;p&gt;&lt;em&gt;This is a follow up post to &lt;a href=&quot;http://bit.ly/1hxzntZ&quot;&gt;Building for the Enterprise&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For startups, the business space may seem like a gold mine. There are problems everywhere you look, customers will pay you to fix them, and there&amp;rsquo;s not millions of other startups competing with you.&lt;/p&gt;
+
+&lt;p&gt;While these attributes can make the business space attractive, not all problems are applicable to every business. Entrepreneurs must understand the types of problems they are solving in relation to the priorities of the companies they&amp;rsquo;re targeting.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;Companies are filled with problems. Productivity, collaboration, operations, hiring, legal, sales, support, etc. But depending on the stage of the business &amp;ndash; early, growth, pre-IPO, public, etc. &amp;ndash; each one will have different priorities (in regards to problems that need to be solved).&lt;/p&gt;
+
+&lt;p&gt;For instance, take an early stage company &amp;ndash; their focus may be marketing &amp;amp; sales. In this case, the priority is to find a solution to help them manage deals. A growth stage company&amp;rsquo;s main focus may be managing support &amp;ndash; so they&amp;rsquo;ll be looking for a support tool. And so on.&lt;/p&gt;
+
+&lt;p&gt;So to determine if a problem fits a company&amp;rsquo;s stage, simply ask &amp;ndash; is this a C-level problem? C-level issues are problems important enough that a CEO/exec will prioritize it. Usually only then will it get solved in a timely manner; otherwise, it may not get solved in a time frame that you can stomach (or afford).&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;At &lt;a href=&quot;http://tcrn.ch/18MuCue&quot;&gt;Xpenser&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://tcrn.ch/18Muzyn&quot;&gt;Coupa&lt;/a&gt;, we made and sold an expense management solution &amp;ndash; a web/mobile app that helped companies create, approve and reimburse their employees' expense reports. More than making it easier for employees to capture their expenses &amp;amp; get reimbursed, our software streamlines the reimbursement process &amp;ndash; helping companies reduce the operational cost of processing and managing lots of expense reports.&lt;/p&gt;
+
+&lt;p&gt;Since our solution reduces cost, we have to target companies whose priority is cost reduction. Typically smaller companies are more focused on the top line (sales), while larger companies can also focus on the bottom line (cost).&lt;/p&gt;
+
+&lt;p&gt;To get these large enterprises, our strategy (product, sales, marketing) has to reflect how they buy software &amp;ndash; through RFP&amp;rsquo;s, direct sales, analyst reports, etc. We need an enterprise roadmap, the right messaging, and an enterprise sales team in order to maximize our ROI.&lt;/p&gt;
+
+&lt;p&gt;Our previous model &amp;ndash; freemium/bottom up &amp;ndash;  was not the most effective way to reach our customer. While we aimed for large deals, this model attracted consumers and SMB&amp;rsquo;s &amp;ndash; because the freemium model was akin to how consumers/SMB&amp;rsquo;s bought software, not how large companies bought software.&lt;/p&gt;
+
+&lt;p&gt;And for many of the SMB&amp;rsquo;s that we did engage &amp;ndash; they sale either dragged on for too long or eventually petered out &amp;ndash; because even though we had gotten into the business, that particular problem wasn&amp;rsquo;t a C-level problem or a business priority. Our strategy didn&amp;rsquo;t match our target customer&amp;rsquo;s stage or how they bought software.&lt;/p&gt;
+
+&lt;p&gt;So before you take the popular sentiment of building a freemium SaaS, make sure you understand the problem you&amp;rsquo;re solving and what stage of company is interested &amp;ndash; and then build your strategy around that.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
+        <link>http://muan.co/2013/12/21/freemium-doesn%27t-always-work-in-b2b/</link>
+        <guid isPermaLink="true">http://muan.co/2013/12/21/freemium-doesn%27t-always-work-in-b2b/</guid>
+      </item>
+    
+      <item>
+        <title>For Startups&#58; Building for the Enterprise</title>
+        <description>&lt;p&gt;A little over a year ago, I joined &lt;a href=&quot;http://tcrn.ch/18MuCue&quot;&gt;Xpenser&lt;/a&gt; &amp;ndash; a startup building expense management tools for businesses and individuals. We were 4 years old, bootstrapped, small (3 full time + interns), ~85K users and ~150 paying customers.&lt;/p&gt;
+
+&lt;p&gt;It was my first time building for businesses. I studied and learned about building product for companies, how to sell, marketing, support, scaling, recruiting, etc.&lt;/p&gt;
+
+&lt;p&gt;About 6 months later, we were acquired by &lt;a href=&quot;http://tcrn.ch/18Muzyn&quot;&gt;Coupa&lt;/a&gt;, a spend management company, to help run &amp;amp; build upon their existing expense management business.&lt;/p&gt;
+
+&lt;p&gt;After we started at Coupa, I thought I&amp;rsquo;d be doing the same thing I was doing at Xpenser, but just at a different company. The setting would be different, but the goals were the same &amp;ndash; build the best expense management solution for the businesses. At the time we joined, Coupa was 6 years old, had raised ~$50M in venture capital, ~150 people, and 400+ paying customers.&lt;/p&gt;
+
+&lt;p&gt;I was wrong. Even though both times we were solving the same problem &amp;amp; selling to companies, the lessons I learned didn&amp;rsquo;t apply universally. At Xpenser we were selling to businesses; at Coupa, we were selling to the enterprise.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;As a student of the startup game, both times (at Xpenser &amp;amp; Coupa) I went to the web to learn from founders/entrepreneurs. Both times I found little helpful information, and in many cases, what I did find turned out to just be plain wrong.&lt;/p&gt;
+
+&lt;p&gt;The majority of startup advice I found on the web was directed at consumer startups. And that made sense &amp;ndash; for a startup whose customers are other businesses, you don&amp;rsquo;t want to keep gushing your mistakes in a public forum. That kind of information will kill you in a sale. Opacity and boilerplate press releases were safer than honest blog posts.&lt;/p&gt;
+
+&lt;p&gt;So it&amp;rsquo;s hard to find good information on the web for startups to learn about building for businesses. For what I did find &amp;ndash; there seemed to be a general misconception &amp;ndash; B2B does not always mean enterprise. There is some gray area, but for the most part, there is a distinction between building for businesses and buidling for the enterprise. There is a difference, and those differences should shape your strategy.&lt;/p&gt;
+
+&lt;p&gt;After serving and building for all types of businesses at both Xpenser &amp;amp; Coupa, I&amp;rsquo;ve learned a bit about the space, and I&amp;rsquo;ll be sharing what I&amp;rsquo;ve learned here. &lt;a href=&quot;http://eepurl.com/DdF7n&quot;&gt;Click here to subscribe&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Dec 2013 00:00:00 +0000</pubDate>
+        <link>http://muan.co/2013/12/14/for-startups%26%2358%3B-building-for-the-enterprise/</link>
+        <guid isPermaLink="true">http://muan.co/2013/12/14/for-startups%26%2358%3B-building-for-the-enterprise/</guid>
+      </item>
+    
+      <item>
+        <title>Leadership</title>
+        <description>&lt;p&gt;What is it?&lt;/p&gt;
+
+&lt;p&gt;1.The ability to get someone to follow you, even if only out of curiosity.&lt;/p&gt;
+
+&lt;p&gt;2.Do people believe you have the interest of the company over yours?&lt;/p&gt;
+
+&lt;p&gt;3.Do they believe you can execute?&lt;/p&gt;
+
+&lt;p&gt;If you have all 3, you&amp;rsquo;ve got it.&lt;/p&gt;
+
+&lt;iframe width=&quot;600&quot; height=&quot;350&quot; src=&quot;//www.youtube.com/embed/sqI7fa04atc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sat, 19 Oct 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/10/19/leadership/</link>
+        <guid isPermaLink="true">http://muan.co/2013/10/19/leadership/</guid>
+      </item>
+    
+      <item>
+        <title>Working Hard &amp; Not Getting Anything Done</title>
+        <description>&lt;blockquote&gt;&lt;p&gt;When you are hunting elephants, don&amp;rsquo;t get distracted chasing rabbits.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;  -&lt;em&gt;T. Boone Pickens&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For years I&amp;rsquo;ve been a big inbox zero guy. I rigorously maintained all of my inboxes and other web services (pocket, feedly, evernote, etc.)&lt;/p&gt;
+
+&lt;p&gt;To me, if you didn&amp;rsquo;t manage your online services, they were useless. Then they were toys &amp;ndash; fun to play with, but don&amp;rsquo;t provide any real utility.&lt;/p&gt;
+
+&lt;p&gt;At the time, I was getting a fair amount of emails and I was able to manage. Since I started at Coupa, it shot up at least 3 fold and I was drowning in a deluge of emails. I couldn&amp;rsquo;t keep up. I needed a new system.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;I was listening to the &lt;a href=&quot;http://www.youtube.com/watch?v=iqUG2_cmZ6I&quot;&gt;PandoMonthly with Chris Sacca&lt;/a&gt; (embedded below). An awesome talk all around &amp;ndash; but the point that that stood out to me was the notion of offense vs. defense.&lt;/p&gt;
+
+&lt;p&gt;Take an email inbox. An inbox is really just a &lt;a href=&quot;https://twitter.com/shellen/status/228202415789334528&quot;&gt;public todo list&lt;/a&gt; that anybody can put things on. You can easily spend all day ticking off your emails and it&amp;rsquo;s easy to feel accomplished and like you&amp;rsquo;re getting a lot done.&lt;/p&gt;
+
+&lt;p&gt;But it&amp;rsquo;s a false sense of accomplishment. By spending your efforts checking off tasks that anyone can give you, there&amp;rsquo;s no coherence around your tasks. You keep working aimlessly and doing everyone&amp;rsquo;s else&amp;rsquo;s bidding but your own. It&amp;rsquo;s the ultimate exercise in feeling busy, but not actually doing anything.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;Prior, I was always impeccable at getting my emails done. I always emailed back. I always followed up at least 3 times. The more useless emails that I responded to, the more useless work came into my life. I didn&amp;rsquo;t realize any of this at the time &amp;ndash; I felt like I was getting shit done.&lt;/p&gt;
+
+&lt;p&gt;As it fell apart with the addition of Coupa emails, I started trying to figure out a new way to manage all my emails.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s when I watched the video below and it opened my eyes to what I was actually doing. I felt accomplished, but I was really just keeping busy doing work for other people. I was only making marginal &amp;ndash; if any &amp;ndash; progress on my own goals. That&amp;rsquo;s why every time I turned off my email and worked in a dark corner, I felt extremely productive. Otherwise I always felt like I was getting stuff done, but I didn&amp;rsquo;t feel like I was doing anything or making any progress.&lt;/p&gt;
+
+&lt;p&gt;So I realized that in order to make real progress, I had to give up on the ridiculous notion of inbox zero. I took a step back, planned out some goals, milestones, and got to work. The endless slew of inbound emails were ignored unless they fit in with my set goals.&lt;/p&gt;
+
+&lt;p&gt;And it&amp;rsquo;s been incredibly cathartic. Yes, my inbox is exploding, but I&amp;rsquo;m making real, tangible progress on the different goals I&amp;rsquo;ve set. I&amp;rsquo;ve been able to make more progress than before, find more free time, and everything else in my inbox is still going on perfectly fine without my response. Amazing.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;This thought expands further than simply managing email. It&amp;rsquo;s a principle to remember in any situation &amp;ndash; make sure you&amp;rsquo;re always playing offense. There are endless amounts of noise in the world trying to distract you. It can feel productive to work on clearing the noise, but it&amp;rsquo;s a waste of effort &amp;ndash; and a futile one. The only way to truly advance on what&amp;rsquo;s important is to ignore the noise, buckle down, and push your goals to completion.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+
+
+&lt;iframe width=&quot;600&quot; height=&quot;350&quot; src=&quot;//www.youtube.com/embed/iqUG2_cmZ6I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 27 Aug 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/08/27/pretending-to-work/</link>
+        <guid isPermaLink="true">http://muan.co/2013/08/27/pretending-to-work/</guid>
+      </item>
+    
+      <item>
+        <title>The First Step To Becoming A Leader</title>
+        <description>&lt;p&gt;What is a leader?&lt;/p&gt;
+
+&lt;p&gt;A leader is someone who drives a group of people towards a common goal.&lt;/p&gt;
+
+&lt;p&gt;Leaders come in all different flavors, but the best leaders all have a few things in common &amp;ndash; they have a clear vision and they are the drivers that push it all forward.&lt;/p&gt;
+
+&lt;p&gt;So what does it take to become a leader? Charisma, salesmanship, product sense, etc. are all pieces of it, but not the key element. At the core, a leader is someone who simply makes good decisions for the group.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;I believe that everyone knows what a good decision looks like. People either explicitly know what it is, or they are able to &amp;ldquo;feel&amp;rdquo; when a decision is right. Intuition is still always there as a fail safe.&lt;/p&gt;
+
+&lt;p&gt;Then why isn&amp;rsquo;t everyone a leader?&lt;/p&gt;
+
+&lt;p&gt;When it comes down to it, most people don&amp;rsquo;t speak their minds. They stifle their own voice and default to the majority. The majority must know better, be smarter, have more experience, etc. This can be especially true if you&amp;rsquo;re in a group full of people smarter than you.&lt;/p&gt;
+
+&lt;p&gt;To become a leader, all you have to do is start speaking your mind. That simple.&lt;/p&gt;
+
+&lt;p&gt;Speaking your mind is how you learn. You force yourself to have an opinion, take a side, and voice it publicly. If you&amp;rsquo;re consistently right, people will recognize this and you will quickly evolve into the decision making authority and leader.&lt;/p&gt;
+
+&lt;p&gt;But when you speak up, you might not always be right. In fact, when you start to really speak your mind, there&amp;rsquo;s a good chance you&amp;rsquo;ll often be wrong. When this happens, it can certainly be easy to hide behind silence.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re wrong, people might call you an idiot. And in the short term, you might actually feel like an idiot.&lt;/p&gt;
+
+&lt;p&gt;But it doesn&amp;rsquo;t matter. When you put yourself out there, you expose your actual thoughts. You create a voice for yourself as well as subjecting your thought process to criticism.&lt;/p&gt;
+
+&lt;p&gt;Take in the criticism, recalibrate, and try again. You can tweak what was wrong before, and constantly iterate your thought process to success.&lt;/p&gt;
+
+&lt;p&gt;When you say nothing, you never put yourself out there. By not exposing what you think, you never challenge your own thought process, your ideas, and your beliefs. It&amp;rsquo;s easier to hide behind silence than subject yourself to the risk of ridicule. Over time, however, those that speak out will continue to improve and others will remain static.&lt;/p&gt;
+
+&lt;p&gt;After constantly interating and optimizing your thought process, you&amp;rsquo;ll start to hone your instincts and begin making the right decisions. By this point you&amp;rsquo;ll have a voice for yourself in the group, have confidence in your opinions, and have naturally evolved into a leader for your group.&lt;/p&gt;
+
+&lt;hr&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ve typically been pretty outspoken. And while this might all seem like common sense, I found that once I started paying attention to myself, I realized I was subconsciously defaulted to the majority on a several things that I actually had an opinions on.&lt;/p&gt;
+
+&lt;p&gt;I caught myself and changed my behavior, but I wouldve never realized that I was keeping quiet until I started to explicitly watch my own behavior.&lt;/p&gt;
+
+&lt;p&gt;Give it a shot, would love to hear thoughts or if you&amp;rsquo;ve had a similar experience.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Aug 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/08/20/becoming-a-leader/</link>
+        <guid isPermaLink="true">http://muan.co/2013/08/20/becoming-a-leader/</guid>
+      </item>
+    
+      <item>
+        <title>To Improve Your Work, Stop Working</title>
+        <description>&lt;p&gt;Over the last few months I&amp;rsquo;ve been in a depression.&lt;/p&gt;
+
+&lt;p&gt;Not a mental depression, but a depression in regards to personal development.&lt;/p&gt;
+
+&lt;p&gt;I define personal development as doing things that you enjoy working on in your free time. Not just anything, but things you actively work on to get better at without any external motivation to do so.&lt;/p&gt;
+
+&lt;p&gt;Recently I&amp;rsquo;ve spent all of my time working on my day job instead of taking the time to do any personal development. Things like reading, writing, or working on personal side projects that don&amp;rsquo;t make any money :).&lt;/p&gt;
+
+&lt;p&gt;By spending all of my time working, I&amp;rsquo;m actually getting worse at work. And I&amp;rsquo;m not getting any better at my personal interests. Doubly bad.&lt;/p&gt;
+
+&lt;hr&gt; 
+
+
+&lt;p&gt;It&amp;rsquo;s easy to get sucked into work. They pay you. Projects are handed to you. You feel productive when you work on something. You know what you have to deliver. Strategy and goals are set for you &amp;ndash; you just have to execute. Things are relatively straightforward.&lt;/p&gt;
+
+&lt;p&gt;Too often these factors lead people to spend all of time working. With non-stop work emails as the new norm and every email marked as &lt;em&gt;URGENT!!!&lt;/em&gt;, it&amp;rsquo;s easy to feel like it&amp;rsquo;s irresponsible to do anything other than work.&lt;/p&gt;
+
+&lt;p&gt;The problem with constant working is that while you might feel like you&amp;rsquo;re being productive, you&amp;rsquo;re only making incremental improvements. By constantly working on the same thing &amp;ndash; you close your mind and limit your ability to think and grow.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;Most innovation comes from outside of the company.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;  -&lt;a href=&quot;http://www.inc.com/allison-fass/tony-hsieh-zappos-growth-strategies.html&quot;&gt;&lt;em&gt;Tony Hsieh&lt;/em&gt;&lt;/a&gt;, CEO of Zappos&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;What we know about the brain is that the brain does not work on forming its connections while we are focused on the idea.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;  -&lt;a href=&quot;http://mixergy.com/course-cheat-sheet-deliberate-innovation/&quot;&gt;&lt;em&gt;Debra Kaye&lt;/em&gt;&lt;/a&gt;, Founder of Lucule Consulting&lt;/p&gt;
+
+&lt;p&gt;In order to innovate and make real strides in your career/ life, it&amp;rsquo;s essential to lift yourself out of the day to day tactical work and just &lt;em&gt;do other things&lt;/em&gt;. Finish a book, write a blog post, volunteer, or work on a side project. Get out of the building.&lt;/p&gt;
+
+&lt;p&gt;By spending time applying your mind to other problems, you can learn and draw inspiration from outside. When you are focused on 1 problem, you develop tunnel vision. Your thinking narrows, and your thoughts can get boxed in. When you venture outside and let go, you&amp;rsquo;re able to re-open your mind and see things in a novel way.&lt;/p&gt;
+
+&lt;p&gt;Outside of work, by developing other skills, you simply become a more valuable person. You learn new skill set, open your mind, and become a much more versatile thinker.&lt;/p&gt;
+
+&lt;p&gt;As a personal anecdote, I&amp;rsquo;ve found my best ideas come from moments where my mind is farthest from the problem at hand. If I get stuck on something, I&amp;rsquo;ll start writing a post or start working on a side project and the answer serendipitously strikes me.&lt;/p&gt;
+
+&lt;p&gt;The difficulty for me is finding the right balance. I&amp;rsquo;m particularly fond of the way Jeff Atwood describes it in his post, &lt;a href=&quot;http://www.codinghorror.com/blog/2009/03/sharpening-the-saw.html&quot;&gt;Sharpening the Saw&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A guy who stumbled into a lumberjack. The lumberjack is feverishly sawing at a very large tree. The lumberjack was sawing and sawing, yet going nowhere. The saw was about as sharp as a butter knife. So, he says to the lumberjack, &amp;ldquo;I couldn&amp;rsquo;t help noticing how hard you are working on that tree, but going nowhere.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;The lumberjack replies with sweat dripping off of his brow, &amp;ldquo;Yes&amp;hellip;I know.&amp;rdquo; The bystander replies and says, &amp;ldquo;But your saw is so dull that it couldn&amp;rsquo;t possibly cut through anything.&amp;rdquo; &amp;ldquo;I know&amp;rdquo;, says the lumberjack, &amp;ldquo;but I am too busy sawing to take time to sharpen my saw.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure if the post is meant to be read this way &amp;ndash; but to me, working is the tactical action of sawing away at the tree. Personal development is the act of sharpening the saw. In order to maximize your efficiency, you must find a balance between the two.&lt;/p&gt;
+
+&lt;p&gt;Constantly re-assess yourself, and be ruthlessly intellectually honest. Spend too much time sawing away and you never make a real impact. Spend too much time sharpening the saw, and you never get anywhere.&lt;/p&gt;
+
+&lt;p&gt;So force yourself to take time and do other things. Especially in startup, it can be hard to pry yourself away from all of the critical things happening. But make sure to take time every day or at least every week to let go of work and focus on building your own personal skill set and interests. You will end up serving not only your company, but also yourself much better in the long run.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/08/01/sharpening-the-saw/</link>
+        <guid isPermaLink="true">http://muan.co/2013/08/01/sharpening-the-saw/</guid>
+      </item>
+    
+      <item>
+        <title>Good Teams Succeed. Great Teams Fail.</title>
+        <description>&lt;p&gt;Ever since I started at my new job, I&amp;rsquo;ve been waiting for one thing &amp;ndash; to fail.&lt;/p&gt;
+
+&lt;p&gt;I hate failing. But I&amp;rsquo;ve been looking forward to it. Why?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For our group to turn into a team.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Now there&amp;rsquo;s a big difference between people that work together and a team.&lt;/p&gt;
+
+&lt;p&gt;When people are simply working together, things are opaque. The flow of information is asymmetrical, sporadic.  The group can often feel mercenary-like. Driven by self interest and/or fear. They very tangibly lack &lt;em&gt;trust&lt;/em&gt; in each other.&lt;/p&gt;
+
+&lt;p&gt;This yields subpar work. When there&amp;rsquo;s no trust, individuals act in self-interest. When people act in self-interest, the results of the group suffer.&lt;/p&gt;
+
+&lt;p&gt;A team is different. Things are transparent. People share thoughts, opinions, comments. Discussions become primarily strategic as opposed to tactical and consensus driven. The team moves from mercenary-like to missionary-like. Aligned by a single vision larger than any single person on the team. People &lt;em&gt;trust&lt;/em&gt; each other.&lt;/p&gt;
+
+&lt;p&gt;This is the golden state. There is meaning behind the work. People are empowered and self motivated. Amazing things happen.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;The reason transparency is a such a powerful value for a company’s culture? It breeds trust, and trust is the foundation of great teamwork.&lt;/p&gt;&amp;mdash; Joel Gascoigne (@joelgascoigne) &lt;a href=&quot;https://twitter.com/joelgascoigne/statuses/340499460696203264&quot;&gt;May 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;So how to build trust? There&amp;rsquo;s 2 main ways &amp;ndash; success and failure.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Success&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Your team succeeds. You deliver a high quality product, you close a big deal, etc. You&amp;rsquo;ve proven that your team can do something right.&lt;/p&gt;
+
+&lt;p&gt;I call this ability trust. Whatever you did worked before, so make it work again. Morale is high, and you hope to boil down the last success into a formula and replicate.&lt;/p&gt;
+
+&lt;p&gt;But ability trust is contingent upon success. It all works great when things are going well. But when things go south, this can quickly evaporate. People start pointing fingers, and fear &amp;amp; self interest takes over.&lt;/p&gt;
+
+&lt;p&gt;Ability trust is very ephemeral &amp;ndash; quickly won, but also very quickly lost. Teams need a more sustainable type of trust in conjunction with ability trust.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Failure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The opposite. Your team works on something together, and everything falls apart.&lt;/p&gt;
+
+&lt;p&gt;1 of 2 things can happen. 1 &amp;ndash; the group turns on each other &amp;ndash; point fingers, spread blame, etc. A complete disaster. Or 2 &amp;ndash; the team will defend each other.&lt;/p&gt;
+
+&lt;p&gt;Not defend failure. But prove that even in failure, they trust each other&amp;rsquo;s decisions and will defend them. &amp;lsquo;Because of XYZ, we thought this was best. It was the best decision possible at the time. We&amp;rsquo;ll get it right next time.&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;When you are knowingly wrong and your team sticks up for you, it instantly creates a bond. It becomes larger than just work output. The team believes in your ability, despite the outcome. You&amp;rsquo;re free to take risks, learn, and improve as opposed to just trying to cover your ass.&lt;/p&gt;
+
+&lt;p&gt;A good team will have one of these. But a great team will have both.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Team &gt; group of individual contributors.&lt;/p&gt;
+
+&lt;p&gt;Trust turns individual contributors into a team.&lt;/p&gt;
+
+&lt;p&gt;To create trust, teams must survive either success or failure.&lt;/p&gt;
+
+&lt;p&gt;To create long term teams, they must survive both success and failure.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Jun 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/06/24/the-best-teams-fail/</link>
+        <guid isPermaLink="true">http://muan.co/2013/06/24/the-best-teams-fail/</guid>
+      </item>
+    
+      <item>
+        <title>Reading Notes - Made to Stick</title>
+        <description>&lt;p&gt;Just finished &lt;a href=&quot;http://amzn.to/114Pvtg&quot;&gt;Made to Stick&lt;/a&gt;. Here are some quick notes.&lt;/p&gt;
+
+&lt;p&gt;The book is about how to turn your ideas into reality. Ideas are incredibly powerful&amp;ndash; they are the root of everything we do. They can do something as simple as convince your friends to a restaurant you&amp;rsquo;ve wanted to try, all the way to getting somebody to quit their cushy job and help you start that company you&amp;rsquo;ve wanted to build.&lt;/p&gt;
+
+&lt;p&gt;But frequently our ideas get ignored. Months later after an opportunity has been missed or taken advantage of by someone else, you mutter under your breath, &amp;lsquo;I had that idea months ago.&amp;rsquo; A useless comment &amp;ndash; you failed to get the buy in because you couldn&amp;rsquo;t convey the value of the idea.&lt;/p&gt;
+
+&lt;p&gt;Miscommunication is defined as when an expert (someone who thinks abstractly) can&amp;rsquo;t communicate with a novice (thinks concretely). The book provides a framework to bridge that gap.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s called the SUCCESs framework (a bit cheesy, I know, but bear with me).&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;S&lt;/strong&gt;imple &lt;br /&gt;
+&lt;strong&gt;U&lt;/strong&gt;nexpected &lt;br /&gt;
+&lt;strong&gt;C&lt;/strong&gt;oncrete &lt;br /&gt;
+&lt;strong&gt;C&lt;/strong&gt;redible &lt;br /&gt;
+&lt;strong&gt;E&lt;/strong&gt;motional &lt;br /&gt;
+&lt;strong&gt;S&lt;/strong&gt;tory &lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Simple&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep it simple. Every idea can be conveyed in 1 simple sentence.&lt;/p&gt;
+
+&lt;p&gt;An example &amp;ndash; Southwest Airlines. Their mantra is, &amp;lsquo;We are &lt;em&gt;the&lt;/em&gt; low cost airline provider&amp;rsquo;. Nothing gets in the way of that. When people are coming up with new ideas, adding new things, changing things &amp;ndash; they always go back to that single idea. Does this help us become the low cost air provider? If not, then the answer is no.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s simple, powerful, and succinct. Everyone can remember it and start to make better decisions based on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unexpected&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you can&amp;rsquo;t grab people&amp;rsquo;s attention, they won&amp;rsquo;t listen. If people don&amp;rsquo;t listen, you can&amp;rsquo;t get your idea out. You need to do/say something unexpected or contrarian to get people listening and thinking.&lt;/p&gt;
+
+&lt;p&gt;Create knowledge gaps. Lead people down a road and pause &amp;ndash; as they fill in the next part on their own &amp;ndash; reveal something unexpected. It&amp;rsquo;ll catch them off guard and keep them hooked, with the added benefit of creating a platform for them to start coming up with their own ideas/thoughts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Concrete&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Concrete details are how to appeal to the masses. But concrete details are a double edged sword &amp;ndash; say too little and nobody knows what you&amp;rsquo;re talking about. Say too much, and the audience loses interest.&lt;/p&gt;
+
+&lt;p&gt;Limit concrete details to 3 things &amp;ndash; &lt;em&gt;associations&lt;/em&gt;, &lt;em&gt;self interest&lt;/em&gt;, and &lt;em&gt;identities&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Associations are things people are familiar with. You can describe a grapefruit to someone who&amp;rsquo;s never seen a grapefruit in 2 ways &amp;ndash; as either a fruit with a soft &amp;amp; porous skin with an edible pulp, or you can just say it&amp;rsquo;s a larger, bitter orange. Simple and concrete.&lt;/p&gt;
+
+&lt;p&gt;2nd is self interest &amp;ndash; what is in it for me. The audience wants to know why they should care. Use concrete details to describe and sell the benefit of the benefit. You&amp;rsquo;re not selling power drills, you&amp;rsquo;re selling the ability for the audience to hang up pictures of their kids on the wall.&lt;/p&gt;
+
+&lt;p&gt;Last is identities. Who am I, and what would someone like me do? Play to people&amp;rsquo;s identities &amp;ndash; learn what that group wants, and then describe it in detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Credible&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You have to be credible. Reference experts (Dr. Yin says don&amp;rsquo;t smoke), aspirational people/celebrities
+(Lebron doesn&amp;rsquo;t smoke), the antihero (this ex-smoker with cancer says don&amp;rsquo;t smoke), or yourself (I quit smoking after I found out I was getting sick).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emotional&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://bit.ly/13Xah2e&quot; alt=&quot;Maslow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maslow&amp;rsquo;s hierarchy. The lower end is physical needs. The higher end is emotional needs. Take your idea from something serving the lower end of Maslow&amp;rsquo;s hierarchy and aim higher. The stronger the emotion, the stronger the purpose.&lt;/p&gt;
+
+&lt;p&gt;Pegasus hall is an army mess hall in Baghdad. Imagein a mess hall &amp;ndash; thousands of sweaty soldiers pouring into a dirty cafeteria. Soldier after soldier in line grabbing food from an assembly line and eating off of a plastic cafeteria tray. Doesn&amp;rsquo;t conjure a grand image.&lt;/p&gt;
+
+&lt;p&gt;One cook realized there was something more. Meal times were not simply just eating. For the soldiers, meal time was downtime; they were recharging. If they didn&amp;rsquo;t eat well, they would be sluggish and unmotivated during the next mission. If they were took a nice break and relaxed, morale would be high and the would perform better on the field. Meal time wasn&amp;rsquo;t about food &amp;ndash; &lt;em&gt;it was about recharging morale&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The cook spread the word to his team. From then on, Pegasus was known for the amazing meals they prepared. Fresh fruit, perfectly cooked steak, and spotless mess halls. Cooks would go through buckets and buckets of fruit to pick out the good ones. Wade through pounds of bad meat to find good pieces. All for the same pay and with the same ingredients at other inferior mess halls.&lt;/p&gt;
+
+&lt;p&gt;Aim high on Maslow&amp;rsquo;s hierarchy. Serve a higher purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Story&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All of the above are components of a good story. Good stories are how experts (think abstractly) communicates with novices (think concretely).&lt;/p&gt;
+
+&lt;p&gt;There are 3 types of stories. Challenge, connection and creativity.&lt;/p&gt;
+
+&lt;p&gt;Challenge - the classic David vs Goliath story.&lt;/p&gt;
+
+&lt;p&gt;Connection - the &amp;lsquo;Chicken Soup&amp;rsquo; type of story. An emotional story pulling on your heart strings &amp;ndash; ie Help this starving child in Africa, etc.&lt;/p&gt;
+
+&lt;p&gt;Creativity - the mental challenge. A story with turns and twists that challenges the audience to follow along and guess what is going to happen next.&lt;/p&gt;
+
+&lt;p&gt;Use these types of stories in different situations. If you&amp;rsquo;re about to go into battle, get your troops riled up by telling a challenge story. If you want people to donate money to your charity, an connection story is probably better.&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;The biggest barrier to doing all this successfully is the curse of knowledge. The curse of knowledge is when you know more than your audience and leave out important details because you assume they are already known.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The way to get your ideas out is to become a great storyteller. The best part is you don&amp;rsquo;t have to create the stories. If you can learn to spot great stories and re-tell them, you&amp;rsquo;ll be golden.&lt;/p&gt;
+
+&lt;p&gt;Use the SUCCESs framework to craft your story and get your idea heard.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Tell a &lt;strong&gt;S&lt;/strong&gt;imple, &lt;strong&gt;U&lt;/strong&gt;nexpected, &lt;strong&gt;C&lt;/strong&gt;oncrete, &lt;strong&gt;C&lt;/strong&gt;redible, and &lt;strong&gt;E&lt;/strong&gt;motional &lt;strong&gt;S&lt;/strong&gt;tory.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 28 May 2013 00:00:00 +0100</pubDate>
+        <link>http://muan.co/2013/05/28/made-to-stick/</link>
+        <guid isPermaLink="true">http://muan.co/2013/05/28/made-to-stick/</guid>
+      </item>
+    
+  </channel>
+</rss>
