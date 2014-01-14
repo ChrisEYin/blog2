@@ -196,7 +196,7 @@ Netflix&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/nest.jpg&quot; alt=&quot;nest&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/nest.jpg&quot; alt=&quot;nest&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://nest.com/thermostat/life-with-nest-thermostat/&quot;&gt;Nest Thermostat&lt;/a&gt; is a &amp;lsquo;smart&amp;rsquo; thermostat that learns from your habits to reduce wateful spending. Touting features like auto away (turning heat down automatically when you&amp;rsquo;re out), self learning (setting optimal temperatures itself) and more, it&amp;rsquo;s a pretty compelling buy. And not to mention that it looks awesome.&lt;/p&gt;
 
@@ -204,17 +204,17 @@ Netflix&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;Before you can use the Nest, you have to make sure it&amp;rsquo;s compatible with your house. To find out, you remove the cover of your current thermostat, go to the &lt;a href=&quot;https://widgets.nest.com/compatibility/&quot;&gt;Nest compatibility site&lt;/a&gt; and check a few wires.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/nest2.jpg&quot; alt=&quot;old-thermostat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/nest2.jpg&quot; alt=&quot;old-thermostat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In my case, I had a W, Rh, Y, G, and another tying Rh to Rc. I emailed them in case (&lt;a href=&quot;mailto:photos@nest.com&quot;&gt;photos@nest.com&lt;/a&gt;) and they were pretty quick (within 6 hours) to respond and confirm.&lt;/p&gt;
 
 &lt;p&gt;On the site, I was returned with this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/nest3.png&quot; alt=&quot;diagram&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/nest3.png&quot; alt=&quot;diagram&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Was unsure of what to do with the Rh to Rc wire, so I left it off. Discovered later that &lt;a href=&quot;http://support.nest.com/article/How-do-I-install-Nest-if-my-old-thermostat-had-a-short-wire-connecting-Rh-and-Rc&quot;&gt;it wasn&amp;rsquo;t necessary&lt;/a&gt; (aside &amp;ndash; found a fair amount of people with the same question, so would have been helpful to include in setup instructions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://bit.ly/KgH7Wn&quot; alt=&quot;install&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/nest4.png&quot; alt=&quot;install&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Installation was pretty straightforward &amp;ndash; turn off the electricity via circuit box, remove old thermostat, screw in Nest plate, plug in wires, and then put the Nest on top of it. 15-20 min.&lt;/p&gt;
 
@@ -242,7 +242,7 @@ Netflix&lt;br /&gt;&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;Totally unaware there was even a battery (thought it powered through the wall), I went online to figure out what was going on.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/nest5.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/nest5.png&quot; alt=&quot;images&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Found this on the support page and it &lt;a href=&quot;http://support.nest.com/article/Intermittent-low-battery-or-connectivity-issues-with-thermostat-software-4-0&quot;&gt;lead to this article&lt;/a&gt;. With no steps to fix, had to search a bit more and found &lt;a href=&quot;http://support.nest.com/article/What-s-the-mini-USB-port-on-the-back-of-the-display-for&quot;&gt;this article&lt;/a&gt; &amp;ndash; had to recharge Nest through an outlet so we could use &amp;amp; reconnect in the interim (next up was &lt;a href=&quot;http://shaunmerrigan.info/site-news/nest-thermostat-battery-charge-problem-and-solution/&quot;&gt;this&lt;/a&gt; if it didn&amp;rsquo;t work). Let it charge for ~1hr and set it back on the wall. Haven&amp;rsquo;t had a problem since, but the lack of clear steps for a resolution left me a bit uneasy.&lt;/p&gt;
 

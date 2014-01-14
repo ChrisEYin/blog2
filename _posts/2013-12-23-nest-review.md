@@ -10,7 +10,7 @@ TL;DR - Yes. It's good for now, but not perfect. Review below.
 
 **Overview**
 
-![nest](/img/nest.jpg)
+![nest](/images/nest.jpg)
 
 The [Nest Thermostat](https://nest.com/thermostat/life-with-nest-thermostat/) is a 'smart' thermostat that learns from your habits to reduce wateful spending. Touting features like auto away (turning heat down automatically when you're out), self learning (setting optimal temperatures itself) and more, it's a pretty compelling buy. And not to mention that it looks awesome. 
 
@@ -19,17 +19,17 @@ The [Nest Thermostat](https://nest.com/thermostat/life-with-nest-thermostat/) is
 
 Before you can use the Nest, you have to make sure it's compatible with your house. To find out, you remove the cover of your current thermostat, go to the [Nest compatibility site](https://widgets.nest.com/compatibility/) and check a few wires. 
 
-![old-thermostat](/img/nest2.jpg)
+![old-thermostat](/images/nest2.jpg)
 
 In my case, I had a W, Rh, Y, G, and another tying Rh to Rc. I emailed them in case ([photos@nest.com](mailto:photos@nest.com)) and they were pretty quick (within 6 hours) to respond and confirm. 
 
 On the site, I was returned with this: 
 
-![diagram](/img/nest3.png)
+![diagram](/images/nest3.png)
 
 Was unsure of what to do with the Rh to Rc wire, so I left it off. Discovered later that [it wasn't necessary](http://support.nest.com/article/How-do-I-install-Nest-if-my-old-thermostat-had-a-short-wire-connecting-Rh-and-Rc) (aside -- found a fair amount of people with the same question, so would have been helpful to include in setup instructions. 
 
-![install](http://bit.ly/KgH7Wn)
+![install](/images/nest4.png)
 
 Installation was pretty straightforward -- turn off the electricity via circuit box, remove old thermostat, screw in Nest plate, plug in wires, and then put the Nest on top of it. 15-20 min.
 
@@ -57,7 +57,7 @@ This is the one area that scared me a bit. After initially setting up the Nest, 
 
 Totally unaware there was even a battery (thought it powered through the wall), I went online to figure out what was going on.
 
-![img](/img/nest5.png)
+![images](/images/nest5.png)
 
 Found this on the support page and it [lead to this article](http://support.nest.com/article/Intermittent-low-battery-or-connectivity-issues-with-thermostat-software-4-0). With no steps to fix, had to search a bit more and found [this article](http://support.nest.com/article/What-s-the-mini-USB-port-on-the-back-of-the-display-for) -- had to recharge Nest through an outlet so we could use & reconnect in the interim (next up was [this](http://shaunmerrigan.info/site-news/nest-thermostat-battery-charge-problem-and-solution/) if it didn't work). Let it charge for ~1hr and set it back on the wall. Haven't had a problem since, but the lack of clear steps for a resolution left me a bit uneasy.
 
