@@ -49,7 +49,8 @@
               </header>
               {{ content }}
             </article>
-            {% if page.url == '/about/' || '/quotes/' %}
+            {% if page.url == '/about/' or page.url == '/quotes/' %}
+            {% else %}
               <div class="tip">You can use <code>◀</code> and <code>▶</code> keys to navigate between posts.</div>
             {% endif %}
           </div>

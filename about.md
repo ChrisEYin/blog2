@@ -1,12 +1,11 @@
 ---
 layout: post
-title: About 
+title: Hey, I'm Chris Yin. 
 ---
 
-Hey, I'm Chris Yin. <br />
+Armchair philosopher, product manager at [Coupa](http://www.coupa.com), and startup guy.
 
-Armchair Philosopher, Product Manager, and Startup guy.
-25 years old in San Diego, CA. Product manager at [Coupa](coupa.com). Writing about technology, startups, web/mobile products, and self improvement.
+25 years old in San Diego, CA. Writing about technology, startups, web/mobile products, and self improvement.
 
 <hr>
 
