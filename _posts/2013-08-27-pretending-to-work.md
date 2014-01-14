@@ -6,7 +6,7 @@ layout: post
 
 >When you are hunting elephants, don't get distracted chasing rabbits. 
 
-  -*T. Boone Pickens*
+-*T. Boone Pickens*
 
 For years I've been a big inbox zero guy. I rigorously maintained all of my inboxes and other web services (pocket, feedly, evernote, etc.)
 
@@ -40,4 +40,4 @@ This thought expands further than simply managing email. It's a principle to rem
 
 <hr>
 
-<iframe width="600" height="350" src="//www.youtube.com/embed/iqUG2_cmZ6I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/iqUG2_cmZ6I" frameborder="0" allowfullscreen></iframe>
