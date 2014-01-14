@@ -17,14 +17,12 @@
           </nav>
           <br />
           {% unless page.date %}
-            <img src="/img/CircleYin.png" class="avatar" />
+            <img src="/images/CircleYin.png" class="avatar" />
           {% endunless %}
           <h2 class="post-title">{{ page.title }}</h2>
           {% if page.date %}
             <small class="datetime muted">
-              {{ page.date | date_to_string }} - 
-              by <a href="https://twitter.com/muanchiou" target="_blank">@muanchiou</a>
-            </small>
+              {{ page.date | date_to_string }}
             <div class="pagination">
               {% if page.previous %}
                 <a class="page-nav previous" {% if page.previous %}href="{{ page.previous.url }}" id="js-previous-post"{% endif %}>
@@ -48,9 +46,10 @@
               <header>
               </header>
               {{ content }}
-              {% unless page.url == "/about/" %}{% include signoff.html %}{% endunless %}
             </article>
-            <div class="tip">You can use <code>◀</code> and <code>▶</code> keys to navigate between posts.</div>
+            {%if page.url != '/about/' %}
+              <div class="tip">You can use <code>◀</code> and <code>▶</code> keys to navigate between posts.</div>
+            {% endif %}
           </div>
         </section>
 

@@ -3,20 +3,26 @@ layout: post
 title: About 
 ---
 
-**Hey, I'm Chris Yin**. <br />
+Hey, I'm Chris Yin. <br />
+
 Armchair Philosopher, Product Manager, and Startup guy.
+25 yearls od in San Diego, CA. Product manager at [Coupa](coupa.com). Writing about technology, startups, web/mobile products, and self improvement.
 
-<br />
+<hr>
 
-[GitHub](https://github.com/muan)
+[Gmail](mailto:christopher.e.yin@gmail.com)
 
-[Twitter](https://twitter.com/muanchiou)
+[Twitter](http://bit.ly/12HmPYA)
 
-[Dribbble](http://dribbble.com/muan)
+[Linkedin](http://linkd.in/17X1xcM)
 
-[Speakerdeck](http://speakerdeck.com/muan)
+[Tumblr](http://bit.ly/144f6XZ)
 
-[Blog feed](/feed.xml)
+[Quibb](http://bit.ly/17X1s8W)
+
+[Quora](http://b.qr.ae/12HmYeO)
+
+[RSS](/feed.xml)
 
 
 <br />
