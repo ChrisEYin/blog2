@@ -13,12 +13,14 @@
             <a href="/" class="{% if page.url == '/' %} active{% endif %}">Home</a>
             <a href="/about" class="{% if page.url == '/about/' %} active{% endif %}">
             <span>About</span>
+            <a href="/quotes" class="{% if page.url == '/quotes/' %} active{% endif %}">
+      <span>Quotes</span>
             </a>
           </nav>
           <br />
-          {% unless page.date %}
+          {% if page.url == '/about/'  %}
             <img src="/images/CircleYin.png" class="avatar" />
-          {% endunless %}
+          {% endif %}
           <h2 class="post-title">{{ page.title }}</h2>
           {% if page.date %}
             <small class="datetime muted">
@@ -47,7 +49,7 @@
               </header>
               {{ content }}
             </article>
-            {%if page.url != '/about/' %}
+            {% if page.url == '/about/' || '/quotes/' %}
               <div class="tip">You can use <code>◀</code> and <code>▶</code> keys to navigate between posts.</div>
             {% endif %}
           </div>
