@@ -63,6 +63,23 @@ Found this on the support page and it [lead to this article](http://support.nest
 
 While perusing the support pages during this time, I found a few frustrated people with Nest's seemingly lack of care for support issues. With only a support email alias and no direct number, I can see why. While email only support is fairly common for startups, not sure if this is a good approach for home consumer products.
 
+Seems like I'm not the only one with some issues:
+
+<blockquote class="twitter-tweet" lang="en"><p>huh. Got a <a href="https://twitter.com/nest">@nest</a>. PG&amp;E bill is 3x higher than last month. Clearly it needs some learning ...</p>&mdash; Micah Baldwin (@micah) <a href="https://twitter.com/micah/statuses/420271372980326401">January 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Urg. <a href="https://twitter.com/nest">@nest</a> is playing up, needs a software update, and the web site doesn’t explain how to force an update to ver 4.01. Anyone know?</p>&mdash; John Borthwick (@Borthwick) <a href="https://twitter.com/Borthwick/statuses/420756098761494528">January 8, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+> "Still, Nest will need to better educate customers and ramp up support to avoid being blamed for problems it didn’t cause. Otherwise, customer issues like these could shake confidence in Nest"
+
+-[via Techcrunch](http://techcrunch.com/2014/01/06/nest-4-0-firmware-battery-problems/)
+
+> "But if it's causing problems for even adept users like myself, this could be a big problem in the long run for the company."
+
+-[via Business Insider](http://www.businessinsider.com/nest-thermostat-problem-2014-1)
+
+[Another link to some pretty poor Amazon reviews (obviously, take these with a grain of salt).](http://www.amazon.com/Nest-Learning-Thermostat-Generation-T200577/product-reviews/B009GDHYPQ/ref=cm_cr_pr_hist_1?ie=UTF8&filterBy=addOneStar&showViewpoints=0&sortBy=bySubmissionDateDescending)
 
 **Conclusion**
 

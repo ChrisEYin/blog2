@@ -1,5 +1,5 @@
 ---
-title: For Makers - Expensive Headphone Review
+title: Expensive Headphone Review
 subtitle: false
 layout: post
 ---
